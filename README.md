@@ -21,7 +21,8 @@ By increasing the amount of members, we establish:
 
 Data Structure and Initial Checks:
 Cyclistics database is composed of a single table that includes the following:
-<img width="294" height="425" alt="Screenshot 2026-02-03 at 4 44 19 PM" src="https://github.com/user-attachments/assets/9def1ded-2fa7-4329-bbc4-779d8a0f1c70" />
+<img width="516" height="935" alt="export (1)" src="https://github.com/user-attachments/assets/91af01a1-092c-4ce5-9e07-f9e3fe34b0e7" />
+
 
 From this data, I was able to create a sub table that quantified the average time based on the day of the week per member/casual rider, as well as other supplemental info:
 
