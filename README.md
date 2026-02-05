@@ -24,8 +24,8 @@ Cyclistics database is composed of a single table that includes the following:
 
 <img width="516" height="935" alt="export (1)" src="https://github.com/user-attachments/assets/91af01a1-092c-4ce5-9e07-f9e3fe34b0e7" />
 
-From this data, I was able to create a sub table that quantified metrics involving average timee, day of the week, and other helpful info:
+From this data, I was able to create a sub table that quantified metrics involving average time, day of the week, and other helpful info:
 
-<img width="516" height="383" alt="export (2)" src="https://github.com/user-attachments/assets/582a8866-71f6-4ec6-a7fa-bbc84dab1b33" />
+<img width="516" height="452" alt="export (3)" src="https://github.com/user-attachments/assets/9f8f411b-d9d7-4f36-a6cf-5a0b3dfad82e" />
 
 Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found here.
