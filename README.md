@@ -10,7 +10,7 @@ Data used for analysis can be found [here](https://divvy-tripdata.s3.amazonaws.c
 Despite its growing popularity, Cyclistic’s financial success depends on more than just total ridership. The marketing strategy currently focuses on two distinct segments:
   - **Casual Riders**: Customers who purchase single-ride or full-day passes.
   - **Cyclistic Members**: Annual subscribers who use the service for consistent, daily transit.
-My Goal: As a Junior Data Analyst, I am analyzing historical trip data to identify how these two groups use Cyclistic differently. By understanding these patterns, I aim to design a data-driven strategy to convert casual riders into loyal, annual members, securing the company's long-term growth.
+## My Goal ##: As a Junior Data Analyst, I am analyzing historical trip data to identify how these two groups use Cyclistic differently. By understanding these patterns, I aim to design a data-driven strategy to convert casual riders into loyal, annual members, securing the company's long-term growth.
 ## Why does this matter? 
 By increasing the amount of members, we establish:
   - **Predictable revenue**: recurring income guaranteed, allows for company maintenance, expansion, and infrastructure upgrades.
