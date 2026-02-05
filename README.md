@@ -4,7 +4,7 @@ Cyclistic is a pioneering bike-sharing service based in Chicago that has rapidly
 The Growth Story
 Initially popularized by local weekend explorers and tourists, Cyclistic has seen a massive surge in "mainstream" adoption. As Chicago infrastructure continues to prioritize green lanes and sustainable transit, Cyclistic has become a primary choice for daily commuters.
 
-##Data Sources:
+## Data Sources:
 For this analysis, I used bike data from
-https://divvy-tripdata.s3.amazonaws.com/index.html
+[https://divvy-tripdata.s3.amazonaws.com/index.html](trip_data)
 and chose the most recent 5 months, more specifically, Jan - May from the year 2025.
