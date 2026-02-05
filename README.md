@@ -6,7 +6,7 @@ Data used for analysis can be found [here](https://divvy-tripdata.s3.amazonaws.c
 
 
 
-# The Business Challenge
+## The Business Challenge
 Despite its growing popularity, Cyclistic’s financial success depends on more than just total ridership. The marketing strategy currently focuses on two distinct segments:
   - **Casual Riders**: Customers who purchase single-ride or full-day passes.
   - **Cyclistic Members**: Annual subscribers who use the service for consistent, daily transit.
