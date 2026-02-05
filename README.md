@@ -28,4 +28,5 @@ From this data, I was able to create a sub table that quantified metrics involvi
 
 <img width="516" height="452" alt="export (3)" src="https://github.com/user-attachments/assets/9f8f411b-d9d7-4f36-a6cf-5a0b3dfad82e" />
 
-Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found here.
+Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found [here](https://github.com/user-attachments/files/25114379/SQL.Queries.Page.pdf)
+
