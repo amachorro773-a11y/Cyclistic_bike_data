@@ -6,5 +6,5 @@ Initially popularized by local weekend explorers and tourists, Cyclistic has see
 
 ## Data Sources:
 For this analysis, I used bike data from
-[https://divvy-tripdata.s3.amazonaws.com/index.html](trip_data)
+[trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 and chose the most recent 5 months, more specifically, Jan - May from the year 2025.
