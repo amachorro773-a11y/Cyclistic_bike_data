@@ -19,3 +19,11 @@ By increasing the amount of members, we establish:
   - **Customer Acquisition Cost (CAC)**: Easier to maintain an existing member than it is to find new riders.
 
 
+Data Structure and Initial Checks:
+Cyclistics database is composed of a single table that includes the following:
+<img width="294" height="425" alt="Screenshot 2026-02-03 at 4 44 19 PM" src="https://github.com/user-attachments/assets/9def1ded-2fa7-4329-bbc4-779d8a0f1c70" />
+
+From this data, I was able to create a sub table that quantified the average time based on the day of the week per member/casual rider, as well as other supplemental information:
+
+
+Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found here.
