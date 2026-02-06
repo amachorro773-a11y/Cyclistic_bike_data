@@ -46,7 +46,7 @@ Strategy: Capture the high-volume weekend leisure market by introducing a specia
   - **Targeted Revenue Growth**: By implementing a weekend-specific annual pass priced at 50% of the standard rate, Cyclistic can convert sporadic, high-       intent weekend users into a predictable, recurring revenue stream. This pricing strategy lowers the barrier to entry while maintaining the premium        value of the full annual membership.
   - **Risk Mitigation & Conversion**: To maximize adoption, the tier will include a "First-Month Flex" grace period allowing for a penalty-free cancellation.   This removes the primary friction point of long-term commitment, incentivizing casual users to enter the "Member Pipeline" and increasing long-term       Customer Lifetime Value (CLV).
 
-<ins>**Leisure-Enhanced Membership Perks**</ins>
+<ins>**Leisure-Enhanced Membership Perks**</ins>\
 Strategy: Elevate the Annual Membership value proposition by integrating leisure-focused benefits, specifically targeting the high-duration ride patterns identified in the casual rider segment.
   - **Premium Fleet Access**: Grant exclusive or priority access to "Leisure-Class" equipment, such as newer cargo bikes or reclining models, to annual         members.
     - **Business Logic**: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly                appealing to the leisure preferences seen in the casual rider data.
