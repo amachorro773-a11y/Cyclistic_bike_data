@@ -40,11 +40,11 @@ Now that we know that casual riders are not just “unregistered members”, the
 By failing to convert these high-duration weekend riders, Cyclistic is missing out on stable, recurring revenue that could fund fleet maintenance and expansion.
 
 # Recommendations (3 Actions):
-**The "Weekend Explorer" Membership Tier**
+<ins>**The "Weekend Explorer" Membership Tier**</ins>
 Strategy: Capture the high-volume weekend leisure market by introducing a specialized annual membership tier designed for non-commuter usage patterns.
-  - <ins>Data-Driven Market Segmentation</ins>: Analysis of 5 months of trip data reveals that casual ridership peaks on Saturdays and Sundays, with average          durations nearly double those of weekday members. This identifies a distinct "Leisure Segment" that is currently underserved by existing daily or         annual commuter-focused plans.
-  - <ins>Targeted Revenue Growth</ins>: By implementing a weekend-specific annual pass priced at 50% of the standard rate, Cyclistic can convert sporadic, high-       intent weekend users into a predictable, recurring revenue stream. This pricing strategy lowers the barrier to entry while maintaining the premium        value of the full annual membership.
-  - <ins>Risk Mitigation & Conversion</ins>: To maximize adoption, the tier will include a "First-Month Flex" grace period allowing for a penalty-free cancellation.   This removes the primary friction point of long-term commitment, incentivizing casual users to enter the "Member Pipeline" and increasing long-term       Customer Lifetime Value (CLV).
+  - **Data-Driven Market Segmentation**: Analysis of 5 months of trip data reveals that casual ridership peaks on Saturdays and Sundays, with average          durations nearly double those of weekday members. This identifies a distinct "Leisure Segment" that is currently underserved by existing daily or         annual commuter-focused plans.
+  - **Targeted Revenue Growth**: By implementing a weekend-specific annual pass priced at 50% of the standard rate, Cyclistic can convert sporadic, high-       intent weekend users into a predictable, recurring revenue stream. This pricing strategy lowers the barrier to entry while maintaining the premium        value of the full annual membership.
+  - **Risk Mitigation & Conversion**: To maximize adoption, the tier will include a "First-Month Flex" grace period allowing for a penalty-free cancellation.   This removes the primary friction point of long-term commitment, incentivizing casual users to enter the "Member Pipeline" and increasing long-term       Customer Lifetime Value (CLV).
 
 
 Leisure-Enhanced Membership Perks
