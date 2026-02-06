@@ -46,14 +46,14 @@ Strategy: Capture the high-volume weekend leisure market by introducing a specia
   - **Targeted Revenue Growth**: By implementing a weekend-specific annual pass priced at 50% of the standard rate, Cyclistic can convert sporadic, high-       intent weekend users into a predictable, recurring revenue stream. This pricing strategy lowers the barrier to entry while maintaining the premium        value of the full annual membership.
   - **Risk Mitigation & Conversion**: To maximize adoption, the tier will include a "First-Month Flex" grace period allowing for a penalty-free cancellation.   This removes the primary friction point of long-term commitment, incentivizing casual users to enter the "Member Pipeline" and increasing long-term       Customer Lifetime Value (CLV).
 
-
-Leisure-Enhanced Membership Perks
+<ins>**Leisure-Enhanced Membership Perks**</ins>
 Strategy: Elevate the Annual Membership value proposition by integrating leisure-focused benefits, specifically targeting the high-duration ride patterns identified in the casual rider segment.
-Premium Fleet Access: Grant exclusive or priority access to "Leisure-Class" equipment, such as newer cargo bikes or reclining models, to annual members.
-Business Logic: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly appealing to the leisure preferences seen in the casual rider data.
-The "Conversion" Trial Program: Implement a 7-day "Member Experience" trial for high frequency casual riders.
-Strategic Billing: At the end of the 7-day trial, users are seamlessly transitioned into a monthly subscription. This "opt-out" model reduces friction and has been shown to significantly increase long-term conversion rates.
-Operational Efficiency: Position these perks as a zero-marginal-cost benefit. Since the specialized fleet is already part of Cyclistic’s inventory, utilizing them as a membership incentive maximizes asset utilization without increasing capital expenditure.
+  - **Premium Fleet Access**: Grant exclusive or priority access to "Leisure-Class" equipment, such as newer cargo bikes or reclining models, to annual         members.
+    - **Business Logic**: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly                appealing to the leisure preferences seen in the casual rider data.
+  - The "Conversion" Trial Program: Implement a 7-day "Member Experience" trial for high frequency casual riders.
+    - **Strategic Billing**: At the end of the 7-day trial, users are seamlessly transitioned into a monthly subscription. This "opt-out" model reduces           friction and has been shown to significantly increase long-term conversion rates.
+  - **Operational Efficiency**: Position these perks as a zero-marginal-cost benefit. Since the specialized fleet is already part of Cyclistic’s                inventory, utilizing them as a membership incentive maximizes asset utilization without increasing capital expenditure.
+
 Geospatial Marketing & Station-Specific Conversion
 Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs" to intercept high-intent users at the point of interaction.
 Precision Placement: Utilize geospatial data to prioritize the top 10 stations with the highest casual rider traffic for physical signage and digital geofencing.
