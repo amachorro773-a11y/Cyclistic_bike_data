@@ -62,17 +62,19 @@ Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs"
   - **In-App Interventions**: Trigger automated push notifications or "Upgrade Now" prompts when a casual rider starts a trip at one of the identified          top-tier stations.
     - **Strategic Goal**: By reaching the user during the "start-of-ride" phase, we capitalize on a moment of high engagement, increasing the likelihood          of immediate conversion to the "Weekend Explorer" or "Member Experience" tiers.
   - **Signage Alignment**: Ensure physical advertisements at these stations specifically highlight the benefits casual riders care about, such as the           availability of cargo/reclining bikes and unlimited ride time, rather than just commuting speed.
-      ACTION PLAN (12 Month Process)
+
+# Plan of Action (12 Month Period)   
+## Phase 1: Infrastructure
+  - Inventory Audit: making sure we have the appropriate supply and demand for Leisure Perks program.
+  - Beta Testing for “Weekend Explorer” tier membership: Launch tier program near areas where casual members frequent.
+  - Geofencing Setup: Configure digital marketing triggers at the top 10 identified stations.
+
+## Phase 2: Marketing and Conversion
+  - Physical Signage Rollout: Deploy targeted physical advertisements near dense casual stations.
+  - Initiate a week free trial: Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards        the end of trial.
+  - KPI Tracking: Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices.
     
-Phase 1: Infrastructure
-Inventory Audit: making sure we have the appropriate supply and demand for Leisure Perks program.
-Beta Testing for “Weekend Explorer” tier membership: Launch tier program near areas where casual members frequent.
-Geofencing Setup: Configure digital marketing triggers at the top 10 identified stations.
-Phase 2: Marketing and Conversion
-Physical Signage Rollout: Deploy targeted physical advertisements near dense casual stations.
-Initiate a week free trial: Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards the end of trial.
-KPI Tracking: Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices
-Phase 3: Scaling and Long-term Retention:
-Full Fleet Integration: Scale premium bike access to ALL stations across the Cyclistic network.
-Annual Strategy Review: Analyze impact on CLV and determine if additional tiers are required.
+## Phase 3: Scaling and Long-term Retention:
+  - Full Fleet Integration: Scale premium bike access to ALL stations across the Cyclistic network.
+  - Annual Strategy Review: Analyze impact on CLV and determine if additional tiers are required.
 
