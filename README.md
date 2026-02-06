@@ -66,7 +66,7 @@ Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs"
 # Plan of Action (12 Month Period)   
 ## Phase 1: Infrastructure
   - Inventory Audit
-    - making sure we have the appropriate supply and demand for Leisure Perks program
+    - Making sure we have the appropriate supply and demand for Leisure Perks program
   - Beta Testing for “Weekend Explorer” tier membership
     - Launch tier program near areas where casual members frequent
   - Geofencing Setup
