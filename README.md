@@ -50,18 +50,19 @@ Strategy: Capture the high-volume weekend leisure market by introducing a specia
 Strategy: Elevate the Annual Membership value proposition by integrating leisure-focused benefits, specifically targeting the high-duration ride patterns identified in the casual rider segment.
   - **Premium Fleet Access**: Grant exclusive or priority access to "Leisure-Class" equipment, such as newer cargo bikes or reclining models, to annual         members.
     - **Business Logic**: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly                appealing to the leisure preferences seen in the casual rider data.
-  - The "Conversion" Trial Program: Implement a 7-day "Member Experience" trial for high frequency casual riders.
+  - **The "Conversion" Trial Program**: Implement a 7-day "Member Experience" trial for high frequency casual riders.
     - **Strategic Billing**: At the end of the 7-day trial, users are seamlessly transitioned into a monthly subscription. This "opt-out" model reduces           friction and has been shown to significantly increase long-term conversion rates.
   - **Operational Efficiency**: Position these perks as a zero-marginal-cost benefit. Since the specialized fleet is already part of Cyclistic’s                inventory, utilizing them as a membership incentive maximizes asset utilization without increasing capital expenditure.
 
-Geospatial Marketing & Station-Specific Conversion
+<ins>**Geospatial Marketing & Station-Specific Conversion**</ins>\
 Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs" to intercept high-intent users at the point of interaction.
-Precision Placement: Utilize geospatial data to prioritize the top 10 stations with the highest casual rider traffic for physical signage and digital geofencing.
-Data-Driven Rationale: Analysis confirms that casual ridership is heavily concentrated at specific "Leisure Stations" (e.g., Streeter Dr & Grand Ave), whereas members are distributed across transit hubs. Targeting these specific high-traffic hotspots ensures maximum visibility among the core audience.
-In-App Interventions: Trigger automated push notifications or "Upgrade Now" prompts when a casual rider starts a trip at one of the identified top-tier stations.
-Strategic Goal: By reaching the user during the "start-of-ride" phase, we capitalize on a moment of high engagement, increasing the likelihood of immediate conversion to the "Weekend Explorer" or "Member Experience" tiers.
-Signage Alignment: Ensure physical advertisements at these stations specifically highlight the benefits casual riders care about, such as the availability of cargo/reclining bikes and unlimited ride time, rather than just commuting speed.
-ACTION PLAN (12 Month Process)
+  - **Precision Placement**: Utilize geospatial data to prioritize the top 10 stations with the highest casual rider traffic for physical signage and           digital geofencing.
+    - **Data-Driven Rationale**: Analysis confirms that casual ridership is heavily concentrated at specific "Leisure Stations" (e.g., Streeter Dr &              Grand Ave), whereas members are distributed across transit hubs. Targeting these specific high-traffic hotspots ensures maximum visibility among          the core audience.
+  - **In-App Interventions**: Trigger automated push notifications or "Upgrade Now" prompts when a casual rider starts a trip at one of the identified          top-tier stations.
+    - **Strategic Goal**: By reaching the user during the "start-of-ride" phase, we capitalize on a moment of high engagement, increasing the likelihood          of immediate conversion to the "Weekend Explorer" or "Member Experience" tiers.
+  - **Signage Alignment**: Ensure physical advertisements at these stations specifically highlight the benefits casual riders care about, such as the           availability of cargo/reclining bikes and unlimited ride time, rather than just commuting speed.
+      ACTION PLAN (12 Month Process)
+    
 Phase 1: Infrastructure
 Inventory Audit: making sure we have the appropriate supply and demand for Leisure Perks program.
 Beta Testing for “Weekend Explorer” tier membership: Launch tier program near areas where casual members frequent.
