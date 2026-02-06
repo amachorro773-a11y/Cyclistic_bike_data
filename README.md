@@ -30,3 +30,11 @@ From this data, I was able to create a sub table that quantified metrics involvi
 
 Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found [here](https://github.com/user-attachments/files/25114379/SQL.Queries.Page.pdf)
 
+# Executive Summary:
+After reviewing and processing over 1 million rows of raw trip data, my findings revealed that **while casual riders utilize the service for long, weekend leisure trips, annual members** rely on Cyclistic for **consistent weekday commuting**. By bridging these data-driven insights with marketing strategy, I developed three actionable recommendations to convert high-value casual riders into loyal subscribers, driving the company’s long-term growth and profitability.
+
+<img width="999" height="799" alt="Capstone (1)" src="https://github.com/user-attachments/assets/7469f958-8027-4e9f-aba1-ed2b3b9dbd0f" />
+
+### So What?
+Now that we know that casual riders are not just “unregistered members”, they are leisure seekers who value the experience of these rides, we can take the appropriate steps to turn them into members.
+By failing to convert these high-duration weekend riders, Cyclistic is missing out on stable, recurring revenue that could fund fleet maintenance and expansion.
