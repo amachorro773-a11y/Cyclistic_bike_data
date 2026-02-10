@@ -34,6 +34,8 @@ Prior to beginning the analysis, a variety of checks were made for quality contr
 After reviewing and processing over 1 million rows of raw trip data, the findings reveal that **while casual riders utilize the service for long, weekend leisure trips, annual members** rely on Cyclistic for **consistent weekday commuting**. By bridging these data-driven insights with marketing strategy, I developed three actionable recommendations to convert high-value casual riders into loyal subscribers, driving the company’s long-term growth and profitability.
 
 <img width="999" height="799" alt="Capstone (1)" src="https://github.com/user-attachments/assets/7469f958-8027-4e9f-aba1-ed2b3b9dbd0f" />
+
+
 [View the live interactive dashboard on Tableau Public](https://public.tableau.com/views/Capstoneproject_17701514118280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### So What?
