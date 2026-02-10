@@ -2,7 +2,7 @@
 
 Cyclistic is a pioneering bike-sharing service based in Chicago that has rapidly transitioned from a niche startup to a mainstream pillar of urban transportation. Launched with a mission to make eco-friendly commuting accessible to all, Cyclistic features a diverse fleet of over **5,800** bicycles, including standard two-wheelers, reclining bikes, hand tricycles, and cargo bikes, spread across a network of **692** tracking stations.
 Initially popularized by local weekend explorers and tourists, Cyclistic has seen a massive surge in "mainstream" adoption. As Chicago infrastructure continues to prioritize green lanes and sustainable transit, Cyclistic has become a primary choice for daily commuters.\
-Data used for analysis can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+Data used for analysis can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 
 
@@ -28,7 +28,7 @@ From this data, I was able to create a sub table that quantified metrics involvi
 
 <img width="516" height="452" alt="export (3)" src="https://github.com/user-attachments/assets/9f8f411b-d9d7-4f36-a6cf-5a0b3dfad82e" />
 
-Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found [here](https://github.com/user-attachments/files/25114379/SQL.Queries.Page.pdf)
+Prior to beginning the analysis, a variety of checks were made for quality control and familiarization with the datasets. The SQL queries used to inspect and conduct quality checks can be found [here](https://github.com/user-attachments/files/25114379/SQL.Queries.Page.pdf).
 
 # Executive Summary:
 After reviewing and processing over 1 million rows of raw trip data, the findings reveal that **while casual riders utilize the service for long, weekend leisure trips, annual members** rely on Cyclistic for **consistent weekday commuting**. By bridging these data-driven insights with marketing strategy, I developed three actionable recommendations to convert high-value casual riders into loyal subscribers, driving the company’s long-term growth and profitability.
