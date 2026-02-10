@@ -8,15 +8,15 @@ Data used for analysis can be found [here](https://divvy-tripdata.s3.amazonaws.c
 
 ### The Business Challenge
 Despite its growing popularity, Cyclistic’s financial success depends on more than just total ridership. The marketing strategy currently focuses on two distinct segments:
-  - **Casual Riders**: Customers who purchase single-ride or full-day passes.
-  - **Cyclistic Members**: Annual subscribers who use the service for consistent, daily transit.
+  - **Casual Riders**: Customers who purchase single-ride or full-day passes
+  - **Cyclistic Members**: Annual subscribers who use the service for consistent, daily transit
 ### My Goal: 
 As a Junior Data Analyst, I am analyzing historical trip data to identify how these two groups use Cyclistic differently. By understanding these patterns, I aim to design a data-driven strategy to convert casual riders into loyal, annual members, securing the company's long-term growth.
 ### Why does this matter? 
 By increasing the amount of members, we establish:
-  - **Predictable revenue**: recurring income guaranteed, allows for company maintenance, expansion, and infrastructure upgrades.
-  - **Operational efficiency**: More predictable behaviors towards bike usage, such as commuters.
-  - **Customer Acquisition Cost (CAC)**: Easier to maintain an existing member than it is to find new riders.
+  - **Predictable revenue**: recurring income guaranteed, allows for company maintenance, expansion, and infrastructure upgrades
+  - **Operational efficiency**: More predictable behaviors towards bike usage, such as commuters
+  - **Customer Acquisition Cost (CAC)**: Easier to maintain an existing member than it is to find new riders
 
 
 # Data Structure and Initial Checks:
@@ -50,9 +50,9 @@ Strategy: Capture the high-volume weekend leisure market by introducing a specia
 ## 2. Leisure-Enhanced Membership Perks
 Strategy: Elevate the Annual Membership value proposition by integrating leisure-focused benefits, specifically targeting the high-duration ride patterns identified in the casual rider segment.
   - **Premium Fleet Access**: Grant exclusive or priority access to "Leisure-Class" equipment, such as newer cargo bikes or reclining models, to annual         members.
-    - **Business Logic**: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly                appealing to the leisure preferences seen in the casual rider data.
+    - **Business Logic**: By reserving specialized equipment for members, we transform a "functional" utility into a "lifestyle" amenity, directly                appealing to the leisure preferences seen in the casual rider data
   - **The "Conversion" Trial Program**: Implement a 7-day "Member Experience" trial for high frequency casual riders.
-    - **Strategic Billing**: At the end of the 7-day trial, users are seamlessly transitioned into a monthly subscription. This "opt-out" model reduces           friction and has been shown to significantly increase long-term conversion rates.
+    - **Strategic Billing**: At the end of the 7-day trial, users are seamlessly transitioned into a monthly subscription. This "opt-out" model reduces           friction and has been shown to significantly increase long-term conversion rates
   - **Operational Efficiency**: Position these perks as a zero-marginal-cost benefit. Since the specialized fleet is already part of Cyclistic’s                inventory, utilizing them as a membership incentive maximizes asset utilization without increasing capital expenditure.
 
 ## 3. Geospatial Marketing & Station-Specific Conversion
