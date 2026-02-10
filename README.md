@@ -65,19 +65,24 @@ Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs"
 
 # Plan of Action (12 Month Period)   
 ## Phase 1: Infrastructure
-  - Inventory Audit
+  - Inventory Audit:
     - Making sure we have the appropriate supply and demand for Leisure Perks program
-  - Beta Testing for “Weekend Explorer” tier membership
+  - Beta Testing for “Weekend Explorer” tier membership:
     - Launch tier program near areas where casual members frequent
-  - Geofencing Setup
+  - Geofencing Setup:
     - Configure digital marketing triggers at the top 10 identified stations
 
 ## Phase 2: Marketing and Conversion
-  - Physical Signage Rollout: Deploy targeted physical advertisements near dense casual stations.
-  - Initiate a week free trial: Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards        the end of trial.
-  - KPI Tracking: Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices.
+  - Physical Signage Rollout:
+    - Deploy targeted physical advertisements near dense casual stations.
+  - Initiate a week free trial:
+    - Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards the end of trial.
+  - KPI Tracking:
+    - Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices.
     
 ## Phase 3: Scaling and Long-term Retention:
-  - Full Fleet Integration: Scale premium bike access to ALL stations across the Cyclistic network.
-  - Annual Strategy Review: Analyze impact on CLV and determine if additional tiers are required.
+  - Full Fleet Integration:
+    - Scale premium bike access to ALL stations across the Cyclistic network.
+  - Annual Strategy Review:
+    - Analyze impact on CLV and determine if additional tiers are required.
 
