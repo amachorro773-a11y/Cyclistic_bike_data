@@ -74,15 +74,15 @@ Strategy: Deploy hyper-localized marketing campaigns at identified "Casual Hubs"
 
 ## Phase 2: Marketing and Conversion
   - Physical Signage Rollout:
-    - Deploy targeted physical advertisements near dense casual stations.
+    - Deploy targeted physical advertisements near dense casual stations
   - Initiate a week free trial:
-    - Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards the end of trial.
+    - Allow people to initiate a 7-day member trial program, transitioning participants into a monthly billing cycle towards the end of trial
   - KPI Tracking:
-    - Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices.
+    - Monitor conversion rates from casual to “Weekend Explorer” vs. full annual memberships to refine subscription prices
     
 ## Phase 3: Scaling and Long-term Retention:
   - Full Fleet Integration:
-    - Scale premium bike access to ALL stations across the Cyclistic network.
+    - Scale premium bike access to ALL stations across the Cyclistic network
   - Annual Strategy Review:
-    - Analyze impact on CLV and determine if additional tiers are required.
+    - Analyze impact on CLV and determine if additional tiers are required
 
